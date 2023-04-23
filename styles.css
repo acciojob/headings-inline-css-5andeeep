@@ -1,1 +1,29 @@
-/*  your css code here. If applicable */
+h1{
+    color: #2a7ae2;
+    margin: 30px 50px;
+}
+h2{
+    color: #f44336;
+    margin: 102px 50px;
+}
+h3{
+    color: #4caf50;
+    margin: 170px 50px;
+}
+h4{
+    margin: 235px 50px;
+    color: #ff9800;
+}
+h5{
+    margin: 295px 50px;
+    color: #607d8b;
+}
+h6{
+    margin: 355px 50px;
+    color: #ffeb3b;
+}
+
+.headings{
+    display: inline;
+    position: absolute;
+}
